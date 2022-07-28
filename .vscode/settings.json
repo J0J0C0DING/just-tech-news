@@ -1,0 +1,7 @@
+{
+  "editor.hover.enabled": false,
+  "editor.lightbulb.enabled": false,
+  "editor.hover.sticky": false,
+  "workbench.editor.enablePreview": false,
+  "editor.snippetSuggestions": "none"
+}
